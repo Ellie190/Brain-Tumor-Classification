@@ -34,6 +34,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 ![Tumor](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/TumorClassfication.png)
 ![Normal](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/NoTumorClassification.png)
 
-## Application to Classify Brain MRI screenshot
+## Application to Classify Brain Tumor (screenshot)
 ![App](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/AppScreenshot1.png)
 
