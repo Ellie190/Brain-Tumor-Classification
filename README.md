@@ -32,7 +32,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 - The images below got presevered to be used to test model. <br>
 - Outputs from the Classification.py <br> 
 ![Tumor](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/TumorClassfication.png)
-![Normal](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/TumorClassfication.png)
+![Normal](hhttps://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/NoTumorClassification.png)
 
 ## Application to Classify Brain MRI screenshot
 ![App](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/AppScreenshot1.png)
