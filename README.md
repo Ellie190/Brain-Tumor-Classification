@@ -14,6 +14,7 @@
 **Undersatnding CNNs:** https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/ <br>
 
 ## Brain MRI scan (Gray Image)
+[GrayImage](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Brin%20Tumor%20Gray%20Image.jpg)
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 
 ## Statistical Evaluation 
