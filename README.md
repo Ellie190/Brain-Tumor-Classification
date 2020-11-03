@@ -8,7 +8,7 @@
 - Built an application to automate the process of Brain Tumor classification. 
 
 ## Resources
-**Python Version:** 3.8
+**Python Version:** 3.8 <br>
 **Packages:** Tensorflow, Keras, Sklearn, imutils, matplotlib, numpy, argparse, pickle, cv2, os <br>
 **Detecting COVID-19:** https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/ <br>
 **Undersatnding CNNs:** https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/ <br>
