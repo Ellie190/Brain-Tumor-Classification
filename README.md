@@ -29,7 +29,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 ![Feature2](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Feature%202%20(Hot).png)
 
 ## Classifications from test samples
-- The images below got presevered to be used to test model. <br>
+- The images below got presevered to be used to test the model. <br>
 - Outputs from the Classification.py <br> 
 ![Tumor](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/TumorClassfication.png)
 ![Normal](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/NoTumorClassification.png)
